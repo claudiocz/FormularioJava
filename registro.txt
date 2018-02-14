@@ -1,0 +1,7 @@
+nombre: Claudio
+apellido: Canedo Zambrana
+email: claudiocanedocourse@gmail.com
+Pais: Bolivia
+Celular: 65755366
+Dirección: Pablo Neruda #2927
+Genero: Masculino
